@@ -1,4 +1,4 @@
-        Welcome to the Registration Form repository! This project aims to provide a streamlined 
+Welcome to the Registration Form repository! This project aims to provide a streamlined 
 solution for user registration processes. The registration form included in this repository 
 offers an intuitive interface for users to sign up and provide necessary information for 
 account creation. Built with simplicity and functionality in mind, our registration form 
